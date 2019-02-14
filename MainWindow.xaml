@@ -1,0 +1,31 @@
+﻿<Window x:Class="wndNewBand.Main_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wndNewBand"
+        mc:Ignorable="d"
+        Title="Main_Window" Height="440.4" Width="569.6" WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,16.2,8.4">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300*"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        
+            <DataGrid  Name="BandList" Grid.Row="0" Grid.Column="0" Margin="0,10,24.6,0" CanUserAddRows="False" HorizontalAlignment="Right" VerticalAlignment="Top" Loaded="DataGrid_Loaded">
+          
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" IsReadOnly="True" Width="100" Binding="{Binding Name, Mode=OneWay}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Mitglieder" Width="100" Binding="{Binding AnzahlMitglieder, Mode=OneWay}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Alben" Width="100" Binding="{Binding AnzahlAlben, Mode=OneWay}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Rating" Width="100*"  Binding="{Binding Rating, Mode=OneWay}"></DataGridTextColumn>
+            </DataGrid.Columns>
+           
+        </DataGrid>
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Vertical" VerticalAlignment="Bottom">
+            <Button x:Name="butHinzufügen" Content="Hinzufügen" HorizontalAlignment="Stretch" Margin="5" VerticalAlignment="Top" Width="92" Height="28" Click="butHinzufügen_Click" Grid.Column="1"/>
+        <Button x:Name="butSchliessen" Content="Schliessen" HorizontalAlignment="Stretch" Margin="5" VerticalAlignment="Top" Width="92" Height="28" Grid.Column="1" Click="butSchliessen_Click"/>
+        <Button x:Name="butDelete" Content="Löschen" Grid.Column="1" HorizontalAlignment="Stretch" Margin="5" VerticalAlignment="Top" Width="92" Height="25"  Click="butDelete_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

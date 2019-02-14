@@ -1,0 +1,34 @@
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\bin\Debug\wndNewBand.exe.config
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\bin\Debug\wndNewBand.exe
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\bin\Debug\wndNewBand.pdb
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\MainWindow.g.cs
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\App.g.cs
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand_MarkupCompile.cache
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand_MarkupCompile.lref
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\MainWindow.baml
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.g.resources
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.Properties.Resources.resources
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.csproj.GenerateResource.cache
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.csproj.CoreCompileInputs.cache
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.exe
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.pdb
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.csprojAssemblyReference.cache
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.g.cs
+D:\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.baml
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\bin\Debug\wndNewBand.exe.config
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\bin\Debug\wndNewBand.exe
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\bin\Debug\wndNewBand.pdb
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.g.cs
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\MainWindow.g.cs
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\App.g.cs
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand_MarkupCompile.cache
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand_MarkupCompile.lref
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.baml
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\MainWindow.baml
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.g.resources
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.Properties.Resources.resources
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.exe
+D:\OneDrive\OneDrive - IBZ Schulen für Technik und Management\School_Documents\Modul_226 Objekt_orientierte_Programmierung\M226a\wndNewBand\obj\Debug\wndNewBand.pdb

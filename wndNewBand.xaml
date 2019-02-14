@@ -1,0 +1,20 @@
+﻿<Window x:Class="wndNewBand.NewBand"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wndNewBand"
+        mc:Ignorable="d"
+        Title="Neue Band erfassen" Height="302.8" Width="511.2" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
+    <Grid>
+
+        <Label x:Name="lbBandName" Content="Band Name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="24" Width="166"/>
+        <TextBox x:Name="tbBandName"  HorizontalAlignment="Left" Height="21" Margin="12,34,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="417" Grid.ColumnSpan="2"/>
+        <Label x:Name="lbAnzahlMitglieder" Content="Anzahl Mitglieder" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top" Height="26" Width="122"/>
+        <Label x:Name="lbAnzahlAlben" Content="Anzahl Alben" HorizontalAlignment="Left" Margin="12,143,0,0" VerticalAlignment="Top" Height="24" Width="122"/>
+        <Button x:Name="butOK" Content="OK" HorizontalAlignment="Left" Margin="265,236,0,0" VerticalAlignment="Top" Width="59" Height="21" Click="butOK_Click"/>
+        <Button x:Name="butAbbrechen" Content="Abbrechen" HorizontalAlignment="Left" Margin="343,236,0,0" VerticalAlignment="Top" Width="97" Height="21" Click="butAbbrechen_Click" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="tbAnzahlMitglieder"  HorizontalAlignment="Left" Height="21" Margin="10,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="417" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="tbAnzahlAlben"  HorizontalAlignment="Left" Height="21" Margin="10,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="417" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>
